@@ -1,6 +1,6 @@
-# Leaderf-sonictemplate
+# LeaderF-sonictemplate
 
-LeaderfF support for [sonictemplate](https://github.com/mattn/sonictemplate-vim)
+[LeaderF](https://github.com/Yggdroot/LeaderF) support for [sonictemplate](https://github.com/mattn/sonictemplate-vim)
 
 ## Installation
 
